@@ -4,4 +4,5 @@ This folder contains the core project management documents for the **Beauty_by_L
 - Project Concept Document
 - Project Charter
 - Project Scope Statement
+  
 These documents define the project's purpose, objectives, scope, stakeholders, and planning approach.
